@@ -8,5 +8,8 @@
 </head>
 <body>
 <h2>This is about page</h2>
+<hr>
+<p>You are a nice person. I wish god bless you!</p>
+<a href="index.jsp">index.jsp</a>
 </body>
 </html>
