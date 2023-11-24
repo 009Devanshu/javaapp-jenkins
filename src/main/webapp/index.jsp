@@ -6,5 +6,6 @@
 <a href="about.jsp">About Page</a>
 <p>This is new paragraph added</p>
 <p>We have successfully deployed java application automatically</p>
+<p>We are deploying this application on aws ec2 using jenkins</p>
 </body>
 </html>
