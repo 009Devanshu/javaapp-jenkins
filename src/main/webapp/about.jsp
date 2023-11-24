@@ -9,7 +9,7 @@
 <body>
 <h2>This is about page</h2>
 <hr>
-<p style="color:red">You are a nice person. I wish god bless you!</p>
+<p style="color:red">You are a nice person. I wish god bless you! I dont know</p>
 <a href="index.jsp">index.jsp</a>
 </body>
 </html>
